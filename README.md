@@ -78,4 +78,4 @@ Directory for defining routes. I don't think this needs more explanation.
 | [nyc](https://npmjs.com/package/nyc)                 | Code Coverage tool                                                 |
 | [standard](https://npmjs.com/package/standard)       | Linting and styling tool.                                          |
 | [chai](https://npmjs.com/package/chai)               | Assertion Library                                                  |
-| [chai-http](https://npmjs.com/package/chai-http)     | Middleware for chai to test http endpoints                         |
+| [chai-http](https://npmjs.com/package/chai-http)     | Middleware for chai to test http endpoints                        |
